@@ -1,0 +1,8 @@
+PASSOS:
+
+git init
+git add .
+git commit -m "mensagem"
+git branch -M main
+git remote add origin https://github.com/jeffersongvs/aula-github.git
+git push -u origin main
